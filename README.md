@@ -14,9 +14,8 @@
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" width="40" height="40"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basakstuff&layout=compact" alt="basakstuff" /></p>
+[Basak's Language Stats]<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basakstuff&layout=compact" alt="basakstuff" /></p>
 
-![Basak's Github Stats](https://github-readme-stats.vercel.app/api?username=basakstuff&theme=dark&show_icons=true)
 
 <p align="center">
 <a href="https://linkedin.com/in/basaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="basaker" height="30" width="30" /></a>
