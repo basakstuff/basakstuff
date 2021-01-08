@@ -16,6 +16,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basakstuff&layout=compact" alt="basakstuff" /></p>
 
+![Basak's Github Stats](https://github-readme-stats.vercel.app/api?username=basakstuff&theme=dark&show_icons=true)
+
 <p align="center">
 <a href="https://linkedin.com/in/basaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="basaker" height="30" width="30" /></a>
 <a href="https://kaggle.com/basakstuff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="basakstuff" height="30" width="30" /></a>
