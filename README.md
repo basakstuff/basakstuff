@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Başak</h1>
 <h3 align="center">A passionate geek</h3>
 
-- 🔭 I’m currently working on **Neural Networks**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Tensorflow**
-
-- 💬 Ask me about **ML, DL, LSTM**
+- 🌱 I’m currently learning **Flutter!**
 
 - 📫 How to reach me **basaker98@gmail.com**
 
